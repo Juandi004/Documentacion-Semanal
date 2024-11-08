@@ -126,3 +126,10 @@ const handleSwitchChange = async (checked: boolean, topic: Topic) => {
 
 
 ```
+
+- Se realizaron algunas reuniones al momento de desarrollar las tareas asignadas (presentes en el product backlog) para coordinar algunas tareas las cuales nos asignaron a 2 o más compañeros.
+- Se realizó Pair Programming para completar algunas tareas de manera más eficiente.
+- Se realizó el despliegue de las tareas asignadas, en la cual se tomaron notas sobre los bugs y mejoras que se pueden implemenar en el proyecto.
+- Se realizó una reunción de PrePlanning para establecer los equipos.
+- Se realizó el sprint planning para establecer las tereas que iba a tener cada funcionalidad.
+- 
