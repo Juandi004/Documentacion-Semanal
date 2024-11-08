@@ -132,4 +132,3 @@ const handleSwitchChange = async (checked: boolean, topic: Topic) => {
 - Se realizó el despliegue de las tareas asignadas, en la cual se tomaron notas sobre los bugs y mejoras que se pueden implemenar en el proyecto.
 - Se realizó una reunción de PrePlanning para establecer los equipos.
 - Se realizó el sprint planning para establecer las tereas que iba a tener cada funcionalidad.
-- 
