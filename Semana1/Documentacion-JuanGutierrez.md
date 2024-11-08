@@ -117,7 +117,7 @@ const handleSwitchChange = async (checked: boolean, topic: Topic) => {
         render: (_text, record: Topic) => (
             <Switch
                 checked={record.enabled}
-                onChange={(checked) => handleSwitchChange(checked, record)}
+                onChange={(checked) => handleSwitchChange(checked, record)} // maneja el cambio de estado
             />
         ),
     },
